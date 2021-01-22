@@ -3,9 +3,9 @@ Repositório destinado a organizar a disciplina de Linguagem de Programação I 
 
 ## Aula 01
 
- * [Conteúdo Teórico ]()
+ * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula-01/README.md)
  * [Slide ]()
- * [Lista de Exercícios]()
+ * [Lista de Exercícios](#)
  
  ***
  ## Aula 02
