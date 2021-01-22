@@ -40,7 +40,7 @@ sudo apt-get upgrade
 ---
 ## Instalando a IDE:
 A Interface de Desenvolvimento que iremos utilizar é o Visual Studio Code. Em algumas distros Linux ela pode aparecer no repositório de programas nativos do Sistema, caso isso não aconteça, não precisa perder a cabeça, basta acessar o link abaixo que lá você vai encontrar vários caminhos para a instalação em várias distribuições diferentes.<br>
-[Link com tutorial de Instalção do Visual Studio code](https://code.visualstudio.com/docs/setup/linux)
+[Instalação do VSCode](https://code.visualstudio.com/docs/setup/linux)
 
 ---
 
@@ -64,7 +64,7 @@ Uma das primeiras coisas que você deve fazer depois que instalar o Git, é conf
 ## Configurando o endereço de E-mail:
 
 Você irá precisar associar um endereço de e-mail ao seu Git para que seja possivel associar o GitHub ao seu repositório local, esse processo pode ser verificado no link que segue<br>
-:link:  [Configurando enderço de E-mail](https://docs.github.com/pt/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address)
+:link:  [Configurando endereço de E-mail](https://docs.github.com/pt/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address)
 
 ---
 
@@ -78,14 +78,14 @@ Com o VSCode instalado e o repostório do GitHub criado, você vai vincular a su
 ---
 
 ## Finalizando:
-Como vocÇe pode notar muitos dos links utilizdos ness apreparçaõ são links para documentação oficial da ferramenta, crie o habito de visitar a documentação oficial , pis é lá que podemos verificar updates oficiais e etc. Ao fim dessa aula você devera estar:
+Como você pode notar, muitos dos links utilizados nessa preparação, são links para documentação oficial das ferramentas. Crie o hábito de visitar a documentação oficial, pois é lá que podemos verificar updates oficiais, detalhes da ferramenta ou linguagem e etc. Ao fim dessa aula você deverá ter feito o seguinte:
 1. Python instalado
-2. Visual studio code Instalado
+2. Visual Studio Code Instalado
 3. Git instalado
 4. Conta no GitHub Criada
-5. repositorio pesosal da disciplina criada e clonada
+5. Repositório pesosal da disciplina criada e clonada
 6. Git configurado
-7. Integração entre git e Vscode realizada
+7. Integração entre Git e Vscode realizada
 
  ### Referências
  > [https://www.devmedia.com.br/guia/python/37024](https://www.devmedia.com.br/guia/python/37024)
