@@ -53,6 +53,7 @@ Nesta etapa você vai criar uma conta do **GitHub**, caso você já tenha uma, p
 
 ## instalando o Git:
 Para que você possa vincular sua IDE ao seu repostório remoto no GitHub, será necessário ter o Git devidamente instalado e configurado na sua máquina. Abra o terminal e digite a seguinte linha de comando ```git --version```, essa linha irá verificar se você tem alguma versão do Git instalado, caso tenha, ela retornará essa versão,caso contrário, apareceŕá alguma mensagem de erro, no segundo caso você terá que proceder com a instalação. Esse processo  pode ser verificado no link abaixo:
+
 :link:  [Instalando o Git](https://git-scm.com/download/linux)
 
 ## Configurar seu nome de usuário no Git:
@@ -69,7 +70,9 @@ Você irá precisar associar um endereço de e-mail ao seu Git para que seja pos
 
 ## Vinculando VSCode ao GitHub:
 Com o VSCode instalado e o repostório do GitHub criado, você vai vincular a sua IDE a sua conta no GitHub. O passo a passo desse processo está detalhado nos links que seguem:
+
 :link: [Integrando VSCode ao Git: Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-pt)
+
 :link: [Integrando VSCode ao Git: Microsoft](https://docs.microsoft.com/pt-br/learn/modules/use-git-from-vs-code/)
 
 ---
@@ -86,7 +89,10 @@ Como vocÇe pode notar muitos dos links utilizdos ness apreparçaõ são links p
 
  ### Referências
  > [https://www.devmedia.com.br/guia/python/37024](https://www.devmedia.com.br/guia/python/37024)
+ 
  > [https://python.org.br/](https://python.org.br/)
+ 
  > [https://docs.github.com/pt](https://docs.github.com/pt)
 ---
+:house: [Home](https://github.com/Evaldo-comp/Python-Mombaca)
 ---
