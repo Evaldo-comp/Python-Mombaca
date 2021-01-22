@@ -5,6 +5,8 @@ Python é uma linguagem de progamação criada por [Guido van Rossum](https://pt
  * [CPython Brasil ](https://python.org.br/)
  * [PayLadies Brasil](https://brasil.pyladies.com/)
  
+ ---
+ 
 ## Preparação de Ambiente:
 
 **Verificação da versão instalada:**
@@ -35,10 +37,56 @@ sudo add-apt-repository ppa:deadsnakes/ppa -r -y
 sudo apt-get upgrade
 
 ```
+---
+## Instalando a IDE:
+A Interface de Desenvolvimento que iremos utilizar é o Visual Studio Code. Em algumas distros Linux ela pode aparecer no repositório de programas nativos do Sistema, caso isso não aconteça, não precisa perder a cabeça, basta acessar o link abaixo que lá você vai encontrar vários caminhos para a instalação em várias distribuições diferentes.<br>
+[Link com tutorial de Instalção do Visual Studio code](https://code.visualstudio.com/docs/setup/linux)
 
+---
+
+## Criando seu GitHub:
+
+Nesta etapa você vai criar uma conta do **GitHub**, caso você já tenha uma, passe para a próxima etapa. Criar o repositório da nossa disciplina, você irá criar um repostória para armazenar os conteúdos, listas e desafios que irá executar durante a disciplina. Tanto a criação de repositórios quanto a utilização de outras funcionaliddes mais especificas podem ser aprendidas lendo a documentação que você pode acessar no link abixo.<br>
+:link:[GitHub Docs](https://docs.github.com/pt/github/getting-started-with-github/quickstart)
+
+---
+
+## instalando o Git:
+Para que você possa vincular sua IDE ao seu repostório remoto no GitHub, será necessário ter o Git devidamente instalado e configurado na sua máquina. Abra o terminal e digite a seguinte linha de comando ```git --version```, essa linha irá verificar se você tem alguma versão do Git instalado, caso tenha, ela retornará essa versão,caso contrário, apareceŕá alguma mensagem de erro, no segundo caso você terá que proceder com a instalação. Esse processo  pode ser verificado no link abaixo:
+:link:  [Instalando o Git](https://git-scm.com/download/linux)
+
+## Configurar seu nome de usuário no Git:
+
+Uma das primeiras coisas que você deve fazer depois que instalar o Git, é configurar seu nome de usuário nom computador local, para isso, siga as instruções a seguir no link:<br>
+:link:  [Configurando nome de Usuário](https://docs.github.com/pt/github/using-git/setting-your-username-in-git)<br>
+
+## Configurando o endereço de E-mail:
+
+Você irá precisar associar um endereço de e-mail ao seu Git para que seja possivel associar o GitHub ao seu repositório local, esse processo pode ser verificado no link que segue<br>
+:link:  [Configurando enderço de E-mail](https://docs.github.com/pt/github/setting-up-and-managing-your-github-user-account/setting-your-commit-email-address)
+
+---
+
+## Vinculando VSCode ao GitHub:
+Com o VSCode instalado e o repostório do GitHub criado, você vai vincular a sua IDE a sua conta no GitHub. O passo a passo desse processo está detalhado nos links que seguem:
+:link: [Integrando VSCode ao Git: Ocean](https://www.digitalocean.com/community/tutorials/how-to-use-git-integration-in-visual-studio-code-pt)
+:link: [Integrando VSCode ao Git: Microsoft](https://docs.microsoft.com/pt-br/learn/modules/use-git-from-vs-code/)
+
+---
+
+## Finalizando:
+Como vocÇe pode notar muitos dos links utilizdos ness apreparçaõ são links para documentação oficial da ferramenta, crie o habito de visitar a documentação oficial , pis é lá que podemos verificar updates oficiais e etc. Ao fim dessa aula você devera estar:
+1. Python instalado
+2. Visual studio code Instalado
+3. Git instalado
+4. Conta no GitHub Criada
+5. repositorio pesosal da disciplina criada e clonada
+6. Git configurado
+7. Integração entre git e Vscode realizada
 
  ### Referências
- * [https://www.devmedia.com.br/guia/python/37024](https://www.devmedia.com.br/guia/python/37024)
- * [https://python.org.br/](https://python.org.br/)
+ > [https://www.devmedia.com.br/guia/python/37024](https://www.devmedia.com.br/guia/python/37024)
+ > [https://python.org.br/](https://python.org.br/)
+ > [https://docs.github.com/pt](https://docs.github.com/pt)
 ---
 ---
