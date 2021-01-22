@@ -5,6 +5,36 @@ Python é uma linguagem de progamação criada por [Guido van Rossum](https://pt
  * [CPython Brasil ](https://python.org.br/)
  * [PayLadies Brasil](https://brasil.pyladies.com/)
  
+## Preparação de Ambiente:
+
+**Verificação da versão instalada:**
+Primeiramente deve-se verificar se não há nenhuma versão instalada no seu computador com o comando ```python --version``` no terminal. A versão que será utilizada, será 3.9 ou 3.8.
+
+**Instalação do Python:**
+
+Normalmente distros linux já vem com o Python pré instalado, mas caso você não tenha ainda a versão mais recente na sua máquina siga os paços seguintes para realizar a instação:
+
+**1. Primeiramente adicione o repositório do programa:** Digite a seguinte  linha de comando no seu terminal.
+```
+ sudo add-apt-repository ppa:deadsnakes/pp
+```
+**2. Atualize o gerenciador de pacotes:** 
+```
+ sudo apt-get update
+```
+
+**3. Instalando o Python:** 
+```
+sudo apt-get install python3.8
+# você pode alterar a versão conforme a disponibilidade da mesma
+```
+
+**4. Para desinstalar, adicione as duas linhas seguintes:** 
+```
+sudo add-apt-repository ppa:deadsnakes/ppa -r -y
+sudo apt-get upgrade
+
+```
 
 
  ### Referências
