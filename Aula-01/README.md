@@ -83,7 +83,7 @@ Como você pode notar, muitos dos links utilizados nessa preparação, são link
 2. Visual Studio Code Instalado
 3. Git instalado
 4. Conta no GitHub Criada
-5. Repositório pesosal da disciplina criada e clonada
+5. Repositório pessoal da disciplina criada e clonada
 6. Git configurado
 7. Integração entre Git e Vscode realizada
 
