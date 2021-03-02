@@ -7,7 +7,7 @@ Repositório destinado a organizar a disciplina de Linguagem de Programação I 
 ## :snake: Aula 01
 
  * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula-01/README.md)
- * [Slide ]()
+ * [Slide ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula-01/SLIDE-AULA01.pdf)
  
  
  ***
