@@ -14,7 +14,7 @@ Repositório destinado a organizar a disciplina de Linguagem de Programação I 
  ## :snake: Aula 02
 
  * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula02/Aula02.ipynb)
- * [Lista de Exercícios](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula02/Lista01_Aula02.md)
+ * [Lista de Exercícios](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula02/Lista01_Aula02..md)
 
 ***
  ## :snake: Aula 03
