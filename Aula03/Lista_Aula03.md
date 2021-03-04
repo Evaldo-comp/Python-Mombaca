@@ -26,7 +26,6 @@ de anos a pagar. O valor da prestação mensal não pode ser superior a 30% do s
 
 6 - Utilizando `while` imprima os resultados da tabuada de 2:
 
----
 
 A saída deve ser semelhante a:
  - 2 x 1 = 2
