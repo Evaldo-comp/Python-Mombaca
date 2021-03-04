@@ -4,10 +4,10 @@
 
 
 1 - Converta as seguintes expressões matemáticas para que possam ser calculadas usando Python:
-* 10 + 20 x 30
-* 4² / 3
-* (9⁴ + 2) x 6 -1
-* (9⁴ + 2)⁴ + ( 10 / 1)
+  - 10 + 20 x 30
+  - 4² / 3
+  - (9⁴ + 2) x 6 -1
+  - (9⁴ + 2)⁴ + ( 10 / 1)
 
 ---
 
@@ -23,18 +23,20 @@
 
 ---
 
-5- Escreva uma função que receba como argumento a quantidade de Km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. A função deve retornar o preço a pagar, sabendo que o carro custa `R$ 60,00` por dia e `R$ 0,15` por km rodado.
+5 - Escreva uma função que receba como argumento a quantidade de Km percorridos por um carro alugado pelo usuário, assim como a quantidade de dias pelos quais o carro foi alugado. A função deve retornar o preço a pagar, sabendo que o carro custa `R$ 60,00` por dia e `R$ 0,15` por km rodado.
 
 ---
 
 6 - Suponha que o preço de capa de um livro seja 24.95.  mas as livrarias recebem um desconto de 40%. O transporte custa  3.00 para o primeiro exemplar e 75 centavos para cada exemplar adicional. Qual é o custo total de atacado para 60 copias?
 
 ---
-7 - Escreva uma função que receba a idade do usuário e indique se ele pode ou não encher a cara de cachaça
+
+7 - Escreva uma função que receba a idade do usuário e indique se ele pode ou não encher a cara de cachaça.
 
 ---
 
-8 - P = True e Q  = False. Aplique De Morgan na seguinte proposição e atribua o valor a uma variável - ~(p ^ (p v q)), essa variável deve ser retornada partir  de uma função
+8 - P = True e Q = False. Aplique De Morgan na seguinte proposição e atribua o valor a uma variável - ~(p ^ (p v q)), essa variável deve ser retornada partir  de uma função
+
 ---
 
 9 - Crie uma função que receba duas strings e retorne True se o número de elementos de uma for igual ao da outra, e retorne False caso contrário.Pesquise pelo método `len()` na documentação do Python.
