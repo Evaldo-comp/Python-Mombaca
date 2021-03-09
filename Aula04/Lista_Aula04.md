@@ -6,10 +6,10 @@ equivalente em segundos. Utilize as funções como parâmetros.
 
 ---
 
-2 - Faça uma função que receba como argumento o salário de um funcionário e calcule o valor do aumento com base nos dados abaixo.
- - Para salários superiores a R$ 1.250,00 Reais, calcule um aumento de 10%
- - Para os inferiores ou iguais, 15% de aumento.
-
+2 - No Basquete os lances podem valer três pontuações diferentes. Finalização dentro do garrafão(2 pontos), finalização fora do garrafão (3 pontos), cobrança de 
+falta(1 ponto). Faça uma função que receba a quantidade de finalização de cada tipo e retorne quantos pontos no total o time fez. Já que os valores dos pontos
+são fixos, utilize parâmetros opcionais. Construa outra função que recebe os mesmos dados equivalente ao time adversário, e em seguida crie uma terceira função
+que receba a primeira e a segunda como parâmetro e retorne o time vencedor
 
 ---
 :house:[Home](https://github.com/Evaldo-comp/Python-Mombaca)
