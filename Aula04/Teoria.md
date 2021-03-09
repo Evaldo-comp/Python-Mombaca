@@ -76,7 +76,7 @@ na função, já recebe um valor padrão que será utilizado caso um outro valor
 **Exemplo:**
 ```python
 def paredao_falso(b1 = "caio"):
-  print(f"Está no apredão falso:  {b1}")
+  print(f"Está no paredão falso:  {b1}")
 paredao_falso("Poca")
 ```
 Podemos combinar parâmetros opcionais com obrigatórios, mas os opcionais devem ficar sempre por último na definição da função.
@@ -84,7 +84,7 @@ Podemos combinar parâmetros opcionais com obrigatórios, mas os opcionais devem
 **Exemplo:**
 ```python
 def paredao_falso(b2, b3, b1 = "Caio"):
-  print(f"""Está no apredão falso:  
+  print(f"""Está no paredão falso:  
           {b1}
           {b2}
           {b3}""")
