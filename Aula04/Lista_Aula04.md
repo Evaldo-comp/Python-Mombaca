@@ -17,6 +17,25 @@ que receba a primeira e a segunda como parâmetro e retorne o time vencedor
 
 ---
 
+4 - Crie uma função que verifique a existência de um número apocalíptico. Um número é apocalíptico se dentro dele tiver a sequência `666`. 
+Sua função deve receber um número que será a potência de base 2. Se o número obtido for apocalíptco retorne a seguinte mensagem:" Arrependam-se vocês têm
+x dias até o fim", sendo que a quantidade de dias é a posição(indice ) onde estava a sequência `666`. Caso o número não seja apocalíptico, retorne a seguinte
+mensagem: "Está tudo bem galera, pode continuar pecando"
+Dica: Procure na documentação pelos métodos `find()` e `index()`.
+
+---
+
+5- Escreva uma função para validar uma string. Ela deve receber como argumento, uma string, o número minimo e máximo de caracteres e retornar VERDADEIRO
+se o número de caracteres da string estiver dentro do min e max passado, e FALSO caso contrário.
+
+---
+
+6 - Escreva uma função que receba uma string e converta as letras em seus respectivos numeros posicionais no alfabeto: por exmeplo (a = 1, b =2, c =3).
+
+---
+
+7 - Pesquise sobre a Cifra de Cézar e crie duas funções, uma para crifrar uma mensagem e outra para decifrar. Utilize como parâmetro a função da questão 6.
+
 
 :house:[Home](https://github.com/Evaldo-comp/Python-Mombaca)
 ---
