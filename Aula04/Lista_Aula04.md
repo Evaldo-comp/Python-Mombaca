@@ -36,6 +36,19 @@ se o número de caracteres da string estiver dentro do min e max passado, e FALS
 
 7 - Pesquise sobre a Cifra de Cézar e crie duas funções, uma para crifrar uma mensagem e outra para decifrar. Utilize como parâmetro a função da questão 6.
 
+---
+
+8 - Escreva as seguintes funções lambda.
+
+ - Uma função que receba um nome e retorne o seu equivalente maiúsculo
+ - Uma função que receba dois parâmetros e retorne o primeiro elevado ao segundo
+ - Uma função que receba um dado e retorne seu tipo
+ - A questão 9 e 14 da lista 2
+
+---
+
+9 - 
+
 
 :house:[Home](https://github.com/Evaldo-comp/Python-Mombaca)
 ---
