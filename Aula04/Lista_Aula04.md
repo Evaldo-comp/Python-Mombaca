@@ -47,7 +47,7 @@ se o número de caracteres da string estiver dentro do min e max passado, e FALS
 
 ---
 
-9 - 
+
 
 
 :house:[Home](https://github.com/Evaldo-comp/Python-Mombaca)
