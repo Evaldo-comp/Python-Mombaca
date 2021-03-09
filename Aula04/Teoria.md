@@ -5,7 +5,7 @@
  - Definição
  - Exemplos
  - Variáveis locais e Globais
- - Parâmentros opcionais
+ - Parâmetros opcionais
  - Função como parâmetro
  - Funções Lambda
 
