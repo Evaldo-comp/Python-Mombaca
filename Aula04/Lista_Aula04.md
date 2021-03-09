@@ -30,7 +30,7 @@ se o número de caracteres da string estiver dentro do min e max passado, e FALS
 
 ---
 
-6 - Escreva uma função que receba uma string e converta as letras em seus respectivos numeros posicionais no alfabeto: por exmeplo (a = 1, b =2, c =3).
+6 - Escreva uma função que receba uma string e converta as letras em seus respectivos números posicionais no alfabeto: Por exemplo (a = 1, b =2, c =3).
 
 ---
 
