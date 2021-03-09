@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+
 # AULA04 - FUNÇÕES
 
 ## Funções
@@ -43,7 +43,7 @@ numero()
 Obs:*Uma variável global pode ser lida e utilizada em operações dentro de uma função, mas não pode ser modificada, para que seu valor possa ser modificado 
 dentro do escopo da função é preciso que declaremos esta variável como do tipo `global`.
 
-# Exemplo:**
+**Exemplo:**
 ```python
 a = 10
 def numero ():
@@ -57,7 +57,7 @@ numero()
 ```
 
 *As variáveis locais nascem e morrem dentro da função, ou bloco ao qual ela foi inicializada. O trecho de código abaixo retorna um erro, pois a variável que
-estamos tentando imprimir fora da função, não pode ser acessada tendo em vista que ela está fora do escopo.
+estamos tentando imprimir fora da função, não pode ser acessada tendo em vista que ela está fora do escopo.*
 
 ```python
 def soma(numero):
@@ -81,7 +81,7 @@ paredao_falso("Poca")
 ```
 Podemos combinar parâmetros opcionais com obrigatórios, mas os opcionais devem ficar sempre por último na definição da função.
 
-# Exemplo:**
+**Exemplo:**
 ```python
 def paredao_falso(b2, b3, b1 = "Caio"):
   print(f"""Está no apredão falso:  
