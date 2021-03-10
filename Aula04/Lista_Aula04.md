@@ -13,14 +13,14 @@ que receba a primeira e a segunda como parâmetro e retorne o time vencedor
 
 ---
 
-3 - Escreva um função que receba sua idade, sua profissão e comormidade = False, altere o valor deste último parâmetro na chamada da função, caso necessário. Essa função deve retornar "Hápto" se você estiver  dentro do grupo prioritário para receber a primeira dose da vacina.
+3 - Escreva um função que receba sua idade, sua profissão e comormidade = False, altere o valor deste último parâmetro na chamada da função, caso necessário. Essa função deve retornar "Apto" se você estiver  dentro do grupo prioritário para receber a primeira dose da vacina.
 
 ---
 
 4 - Crie uma função que verifique a existência de um número apocalíptico. Um número é apocalíptico se dentro dele tiver a sequência `666`. 
-Sua função deve receber um número que será a potência de base 2. Se o número obtido for apocalíptco retorne a seguinte mensagem:" Arrependam-se vocês têm
-x dias até o fim", sendo que a quantidade de dias é a posição(indice ) onde estava a sequência `666`. Caso o número não seja apocalíptico, retorne a seguinte
-mensagem: "Está tudo bem galera, pode continuar pecando"
+Sua função deve receber um número que será a potência de base 2. Se o número obtido for apocalíptico retorne a seguinte mensagem:" Arrependam-se vocês têm
+x dias até o fim", sendo 'x' a quantidade de dias, determinada pela posição(indice ) onde estava a sequência `666`. Caso o número não seja apocalíptico, retorne a seguinte mensagem: "Está tudo bem galera, pode continuar pecando".
+
 Dica: Procure na documentação pelos métodos `find()` e `index()`.
 
 ---
@@ -50,6 +50,6 @@ se o número de caracteres da string estiver dentro do min e max passado, e FALS
 
 
 
-:house:[Home](https://github.com/Evaldo-comp/Python-Mombaca)
+:house: [Home](https://github.com/Evaldo-comp/Python-Mombaca)
 ---
 
