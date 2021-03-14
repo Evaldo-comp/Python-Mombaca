@@ -22,13 +22,11 @@
  - b -imprima o último quarto da lista
  - c -imprima os 5 itens do meio da lista
  - d -imprima a lista reversa
- - e - Imprima o primeiro e o último item da lista
- - 
- **Utilize list comprehension para :**
- 
+ - e - Imprima o primeiro e o último item da lista<br>
+ **Utilize list comprehension para :** <br>
  - f - Gerar uma lista com o quadrado de cada item da lista original
  - g - Gerar uma lista com apenas itens pares da lista original
-	- 
+	
 ---
 
 6- Encapsule o código da questão anterior em uma função, que recebe a lista criada e a letra de uma operação. A função deve retornar o resultado da operação representada por esta letra de acordo com o enunciado da questão anterior.
