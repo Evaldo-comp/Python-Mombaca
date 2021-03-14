@@ -23,7 +23,8 @@
  - c -imprima os 5 itens do meio da lista
  - d -imprima a lista reversa
  - e - Imprima o primeiro e o último item da lista<br>
- **Utilize list comprehension para :** <br>
+ <h4 font-color="red">Utilize list comprehension para :</h4><br>
+ 
  - f - Gerar uma lista com o quadrado de cada item da lista original
  - g - Gerar uma lista com apenas itens pares da lista original
 	
