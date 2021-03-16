@@ -20,7 +20,7 @@ dentro de um par de colchetes:
 ```python
 L = [1, 1.75, True, "Evaldo"]
 ```
-O exemplo acima mostra a criação de uma lista de nome L que contém dados do tipo int, string, float e bool.
+#### O exemplo acima mostra a criação de uma lista de nome L que contém dados do tipo int, string, float e bool.
 ---
 
 ## Acessando um elemento:
@@ -48,11 +48,11 @@ L = [1, 1.75, True, "Evaldo"]
 L[2] = False  # altera o valor do indice dois de True para False
 ```
 ----
->> 📝:Prática01
+> 📝:Prática01
 
->> - Crie uma lista com pelo menos 5 items. 
->> - Crie uma função que receba a lista e um item. A  função deve retornar a mesma lista com o item modificado
->> - Adicione mais um parâmetro que será a posição que será modificada
+> - Crie uma lista com pelo menos 5 items. 
+> - Crie uma função que receba a lista e um item. A  função deve retornar a mesma lista com o item modificado
+> - Adicione mais um parâmetro que será a posição que será modificada
  ---
 
 
@@ -63,7 +63,7 @@ pedaço da lista..
 
 
 
-### Exemplos de slice 
+#### Exemplos de slice 
 ```python
 lista = ["P", "y", "t", "h", "o", "n"]
 lista[0:5]
@@ -86,8 +86,8 @@ print(L)
 ```
 ---
 
->> 📝:Prática02
->> Crie uma função que receba 3 números e uma listae dentro da função você vai gerar três recortes diferentes.
+> 📝:Prática02
+> Crie uma função que receba 3 números e uma listae dentro da função você vai gerar três recortes diferentes.
 
 ---
 
@@ -117,7 +117,7 @@ trechos que seriam escritos em blocos de código mais extensos.
 
  Sintax:  `nova_lista = [expressao for item in iterável ]`
 
-### Exemplo: 
+#### Exemplo: 
 ```python
 nova_lista = [x for x in range(0, 12) ]
 print(nova_lista)
@@ -138,9 +138,9 @@ print(nova_lista)
 ```
 
 ---
->> 📝:Prática03
+> 📝:Prática03
 
->> Crie um lista uilizando list comprehension, tente incluir algum criatério
+> Crie um lista uilizando list comprehension, tente incluir algum criatério
 
 ---
 
@@ -149,7 +149,7 @@ print(nova_lista)
 Uma lista pode ser composta por outras listas, gerando dessa forma um estrutura bidimensional(Matriz)
 
 
-### Exemplo de lista de lista
+#### Exemplo de lista de lista
 ```python
 produto1 = ["Arroz", 1, 2.20]
 produto2 = ["Feijão", 2, 4.20]
@@ -167,14 +167,14 @@ for e in lista_compras:
 
 ## Métodos de Listas
 
-### append() - Adiciona um elemento no fim da lista
+#### append() - Adiciona um elemento no fim da lista
 
 ```python
 L = ["a", "b"]
 L..append("c")
 ```
 
-### sort() - sse método organiza a lista na ordem crescente:
+#### sort() - sse método organiza a lista na ordem crescente:
 
 ```python
 vogais = ["u", "a", "i", "e", "o"]
@@ -182,13 +182,13 @@ vogais.sort()
 print(vogais)
 ```
 
-### insert() - Para adicionar um item em um lugar especifico devemos utilizar o método insert(), que recebe dois argumentos, o primeiro é o indice onde o elemento será adicionado e o segundo será o próprio elemento.
+#### insert() - Para adicionar um item em um lugar especifico devemos utilizar o método insert(), que recebe dois argumentos, o primeiro é o indice onde o elemento será adicionado e o segundo será o próprio elemento.
 ```python
 L = [1, 3, 4, 5]
 L.insert(1, 2)
 ```
 
-### pop() - Esse método recebe como argumento o indice do elemento que você deseja excluir, e retorna o elemento excluido, se não for inserido nenhum argumento, ele irá remover o último elemento da lista:
+#### pop() - Esse método recebe como argumento o indice do elemento que você deseja excluir, e retorna o elemento excluido, se não for inserido nenhum argumento, ele irá remover o último elemento da lista:
 
 
 ```python
@@ -200,7 +200,7 @@ print(titulos_palmeiras)
 ```
 
 
-### del - Caso não seja necessário recuperar o item excluído, basta usar o del, ele simplismente descarta o item
+#### del - Caso não seja necessário recuperar o item excluído, basta usar o del, ele simplismente descarta o item
 
 ```python
 titulos_palmeiras =["Brasileiro", "Copa do Brasil","Mundial", "Libertadores"]
@@ -209,7 +209,7 @@ del titulos_palmeniras[1]
 print(titulos_palmeiras)
 ``` 
 
-### copy() - Esse método copia o conteúdo de uma lista para outra
+#### copy() - Esse método copia o conteúdo de uma lista para outra
 
 
 ```python
@@ -219,7 +219,7 @@ novos_numeros = numeros.copy()
 
 ``` 
 
-### extend() - Esse método junta uma lista a outra, ele não gera uma terceira 
+#### extend() - Esse método junta uma lista a outra, ele não gera uma terceira 
 
 
 ```python
@@ -271,11 +271,11 @@ t3 = tuple(Lista)
 print(t3)
 ```
 ---
->> 📝:Prática04
+> 📝:Prática04
 
->> Crie uma lista que contenha: Nome, idade, cidade.
+> Crie uma lista que contenha: Nome, idade, cidade.
 
->> Converta essa lista para tupla
+> Converta essa lista para tupla
 ---
 
 ##  Utilizando tupla para desempacotar
@@ -308,8 +308,8 @@ print(T)
 
 ---
 
->> 📝:Prática04
->> Adicione um item na sua tupla e desempacote ela
+> 📝:Prática04
+> Adicione um item na sua tupla e desempacote ela
 
 ---
 
