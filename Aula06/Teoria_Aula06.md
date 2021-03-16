@@ -17,10 +17,13 @@
 ## Criação de  Listas
 Listas são tipos de dados compostos que podêm conter elementos de vários tipos, inclusive outras listas. As listas são mutáveis e representadas por elementos 
 dentro de um par de colchetes:
+
 ```python
 L = [1, 1.75, True, "Evaldo"]
 ```
-#### O exemplo acima mostra a criação de uma lista de nome L que contém dados do tipo int, string, float e bool.
+
+*O exemplo acima mostra a criação de uma lista de nome L que contém dados do tipo int, string, float e bool.
+
 ---
 
 ## Acessando um elemento:
