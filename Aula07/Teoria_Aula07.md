@@ -37,7 +37,7 @@ print(type(c))
 ---
 ### Acessando itens em um SET:
 
-Os itens de um set não podems ser referenciados pelo indice, caso precisemos acessá-lo, devemos utilizar um loop para percorrer o set
+Os itens de um set não podem ser referenciados pelo indice, caso precisemos acessá-lo, devemos utilizar um loop para percorrer o set
 ou algum operador como por exemplo o `in`.
 
 ```python
