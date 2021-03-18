@@ -69,7 +69,7 @@ print(alunos_uece)
 ```
 ---
 > 📝:Prática01
-> Crie uma função que receba uma lista e uma tupla, e retorne um set contendo os items dessas coleções.
+> Crie uma função que receba uma lista, uma tupla, e retorne um set contendo os itens dessas coleções.
 ---
 
 ### Removendo item de um SET:
@@ -84,7 +84,7 @@ Existem várias formas de realizar a remoção de um item de um set, cada uma te
 
  -`clear()`: Limpa o set
 
-- `del`:  Destroi o set:
+ - `del`:  Destroi o set:
 
 *Dica: Crie um set e teste cada opção
 
