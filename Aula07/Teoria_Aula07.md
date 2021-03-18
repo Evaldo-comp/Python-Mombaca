@@ -95,7 +95,7 @@ Existem várias formas de realizar a remoção de um item de um set, cada uma te
 **Diferença entre SETs:**
 
 Retorna a diferença entre dois conjuntos
-```ython
+```python
 set1={0,1, 2, 3, 4}
 set2= {2, 3, 4,5}
 print(set1  - set2) # imprime os elementos que estão em set1 e não estão em set2
@@ -105,7 +105,7 @@ print(dif)
 ```
 
 **União entre SETS**:
-É sememlhante  a operação clássica com conjuntos, ele junta dois conjuntos em um só.
+É semelhante  a operação clássica com conjuntos, ele junta dois conjuntos em um só.
 
 ```python
 set1={0,1, 2, 3, 4}
