@@ -82,7 +82,7 @@ Existem várias formas de realizar a remoção de um item de um set, cada uma te
 
  - `pop()`:  Remove o último item e guarda o valor
 
- -`clear()`: Limpa o set
+ - `clear()`: Limpa o set
 
  - `del`:  Destroi o set:
 
