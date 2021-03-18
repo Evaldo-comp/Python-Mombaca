@@ -137,7 +137,7 @@ print(set1)
 > Faça uma função que receba dois SETs e retorne alguma operação básica realizada entre ambos.
 ---
 
-#Dicionários:
+# Dicionários:
 
 O dicionário consistem em uma combinação de CHAVE e VALOR, cada elemento de um dicionário segue esta combinação e são organizados 
 dentro de chaves diferente das listas que utilizam colchetes e tuplas que utilizam parêteses.
