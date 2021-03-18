@@ -63,7 +63,7 @@ alunas_comp = ["Edinara", "Vitória", "Vanessa"]
 
 alunos_uece ={"Lucas"}
 
-alunos_uece.update(alunas_comp) # Alista é adicionada por maio do método update()
+alunos_uece.update(alunas_comp) # A lista é adicionada por meio do método update()
 print(alunos_uece)
 
 ```
