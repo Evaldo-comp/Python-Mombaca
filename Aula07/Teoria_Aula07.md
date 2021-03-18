@@ -139,21 +139,23 @@ print(set1)
 
 # Dicionários:
 
-O dicionário consistem em uma combinação de CHAVE e VALOR, cada elemento de um dicionário segue esta combinação e são organizados 
-dentro de chaves diferente das listas que utilizam colchetes e tuplas que utilizam parêteses.
+O dicionário consiste em uma combinação de CHAVE e VALOR. Cada elemento de um dicionário segue esta combinação e são organizados 
+dentro de chaves, diferente das listas que utilizam colchetes e tuplas que utilizam parêteses.
 
 
 `Estrutura = {“Chave”: valor, “Chave”: valor}`
 
 
 Ao associar um valor a uma chave, se essa chave já existir o valor será substituído, se a chave não existir uma nova chave será criada.
-"""
 
+```python
 # Exemplo:
 usuario_acesso = {
     "login": "adm",
      "senha": 123,
          }
+```
+    
 ### Acessando intens de um dicionário:
 
 Podemos optar por acessar não apenas os itens, mas somente chaves ou somente valores.
@@ -198,15 +200,15 @@ print(usuario_acesso)
 ---
 ### Modificando o valor de uma chave
 
-A modificação de uma valor pode ser feita invocando o nome da chave e associando um novo valor, mas cuidado, se a chave não existir, ela será adicionada.
+A modificação de um valor pode ser feita invocando o nome da chave e associando um novo valor, mas cuidado, se a chave não existir, ela será adicionada.
 
 ```python
-# Verifcando a existência de determinada chave
+
 usuario_acesso = {
     "login": "adm",
      "senha": 123,
          }
-usuario_acesso["login] = "usr" # modifica o valor da chave login
+usuario_acesso["login"] = "usr" # modifica o valor da chave login
 usuario_acesso["palavra_chave]: "Batata"  # como a chave invocada não existe, ela será inserida no dicionário
 ```
 ---
@@ -259,7 +261,7 @@ print(funcionario)
 ### Dic Comprehension:
 
 O Comprehension é uma forma de gerar uma estrutura em uma linha única, pode ser utilizada em lista e agora veremos como aplicar comprehension em dicionários
-```
+```python
 # gerando um dicionário de chaves que vão de 0 a 10 e valores que são o quadrado dessas chaves.
 a = {x :x**2 for x in range(0,10, 2)}
 print(a)
