@@ -90,7 +90,7 @@ Existem várias formas de realizar a remoção de um item de um set, cada uma te
 
 ---
 
-### Operações báśicas com Sets:
+### Operações básicas com Sets:
 
 **Diferença entre SETs:**
 
