@@ -1,20 +1,20 @@
 # Aula08 - Manipulação de Arquivos
 
-O Python assim como diversas outras linguagens nos permitem manipular arquivos para que possamos ler dados, escrever e armazenar, cada linguagem se comporta
-de uma forma diferente, algumas mais complexas, outras com processos mais automatizados. a manipulação de arquivos no Python deve seguir um cliclo, que
-chamamos de cilco de vida do arquivo:
+O Python assim como diversas outras linguagens nos permitem manipular arquivos para que possamos ler dados, escrever e armazenar. Cada linguagem se comporta
+de uma forma diferente, algumas mais complexas, outras com processos mais automatizados. A manipulação de arquivos no Python deve seguir um ciclo, que
+chamamos de Ciclo de Vida do arquivo:
 
  - Criação
  - Operação
  - Fechamento
  
 Primeiro o arquivo é criado ou arberto, em seguida é feita alguma operação(Pesquisa, filtragem, corte e etc), depois de ser utilizado o arquivo deve
-ser fechado para que ele não continue consumindo memória, ou gere algum conflito na sua reutilização em uma operação posteior.
+ser fechado para que ele não continue consumindo memória, ou gere algum conflito na sua reutilização em uma operação posterior.
 
-## Acesando um Arquivo:
+## Acessando um Arquivo:
 
 A primeira coisa que devemos fazer para acessar um arquivo é abri-lo, informando o nome e o caminho do mesmo, o caminho só será necessário informar se o arquivo não
-estiver na pasta onde o código que irá manipul-a-lo também se encontra.
+estiver na pasta onde o código que irá manipulá-lo também se encontra.
 
 Para abrir usamos a função `open`, essa função leva dois parâmentros, o nome e modo. O nome é o nome do arquivo, hooooo 🙃  e o modo é a operação que desejamos realizar 
 com o arquivo, as operações podem ser as seguintes da tabela.
@@ -29,12 +29,12 @@ com o arquivo, as operações podem ser as seguintes da tabela.
 
 
 
-*OBS: A função open retorna uma objeto do tipo file*
+*OBS: A função open retorna um objeto do tipo file*
 
-### Criando umArquivo
+### Criando um Arquivo
 
 Segue abaixo o exemplo da geração de um arquivo .txt, o formato pode ser alterado para .doc, .pdf e etc. Para realizar operações de busca e filtragem é interessante
-utilizar arquivos .txt, porque ele não possue formatação. O exemplo que segue utiliza como operação o `w`, essa operação escreve um dado em um arquivo, se esse
+utilizar arquivos .txt, porque ele não possui formatação. O exemplo que segue utiliza como operação o `w`, essa operação escreve um dado em um arquivo, se esse
 arquivo não existir ele cria um, se ele existir ele sobrescreve.
 
 ```python
@@ -65,7 +65,7 @@ arquivo.close()
 ```
 ### O uso do `with`:
 
-Como o fechamento de arquivo é muito importante para a maniplação correta, o Python cria um bloco que contextulaiza e desobriga de chamar o método 
+Como o fechamento de arquivo é muito importante para a maniplação correta, o Python cria um bloco que contextualiza e desobriga de chamar o método 
 `close()` sempre que abrirmos um arquivo. Abaixo podemos  ver o mesmo o processo realizado no exemplo anterior, mas utilizando o `with`.
 
 ```python
@@ -103,9 +103,9 @@ with open("multiplos_quatro.txt", "w") as multiplos4:
 ---
 Para que você consiga realizar processos de pesquisa e filtragem com uma quantidade maior de números, vamos utilizar um arquivo de texto com nomes coletados
 originalmente neste  [repositório](https://github.com/emersonsoares/SampleDataGenerator/edit/master/SampleDataGenerator/Resources/nomes.txt), os nomes foram salvos
-em arquivo.txt que pode ser acessado [aqui](https://github.com/Evaldo-comp/Python-Mombaca/tree/main/Aula08).
+em um arquivo.txt que pode ser acessado [aqui](https://github.com/Evaldo-comp/Python-Mombaca/tree/main/Aula08).
 
-Sehuem alguns exemplos de operações realizadas com arquivo.
+Seguem alguns exemplos de operações realizadas com esse arquivo.
 
 Filtragem de nomes com uma quantidade limite de letras
 ```python
@@ -128,7 +128,7 @@ for line in nomes.readlines():
 nomes.close()
 ```
 ---
-## geração de Arquivos HTML:
+## Geração de Arquivos HTML:
 
 HTML é uma linguagem de marcação, utilizada para estruturar páginas web, para escrevermos uma página web podemos utilizar um editor de texto simples 
 apenas escrevendo a seguinte estrutura.
@@ -148,7 +148,7 @@ apenas escrevendo a seguinte estrutura.
 ```
 
 Para gerarmos um arquivo semelhante ao anterior utilizando Python, primeiramente vamos criar um arquivo com a função `open()`
-mas aqui vamos utilizar a propriedade `encoding` que vai definir o padrão de rederização de cacateres que o brownser vai usar.
+mas aqui vamos utilizar a propriedade `encoding` que vai definir o padrão de renderização de cacacteres que o brownser vai usar.
 
 ```python
 # gerando HTML com python
@@ -166,8 +166,8 @@ with open("index.html", "w", encoding="utf-8") as index:
     </html>
     """)
 ```
-A criação da estrtura padrão do HTML com Python não vai me trazer grandes benefícios a primeira vista, mas quando integramos  o Python juntamente com HTML
-podemos ter ganhos incríveis na escrita de estruturas que poderia se tornar muito massante se fossemnos escrever linha por linha em HTML.
+A criação da estrtura padrão do HTML com Python não vai  trazer grandes benefícios a primeira vista, mas quando integramos  o Python e suas funções dentro do HTML
+podemos ter ganhos incríveis na escrita de estruturas que poderia se tornar muito massante se fossemos escrever linha por linha em HTML.
 O próximo exemplo insere um dicionário dentro de um arquivo HTML. Observe que a lógica de inserção do dicionário tem apenas 4 linhas de código
 e a estrutura criada dentro do HTML são mais de  de 10 linhas.
 ```python
