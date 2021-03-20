@@ -43,6 +43,9 @@ Repositório destinado a organizar a disciplina de Linguagem de Programação I 
 * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula07/Teoria_Aula07.md) 
 * [Lista de Exercícios](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula07/Lista_Aula07.md)
 
+***
+## :snake: Aula 08 
 
-
+* [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula08/Teoria_Aula08.mdd) 
+* [Lista de Exercícios](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula08/Lista_Aula08.md)
 
