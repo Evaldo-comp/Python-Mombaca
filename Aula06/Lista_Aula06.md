@@ -76,9 +76,18 @@
 
 8 - Escreva uma função que crie listas automaticamente dentro de um intervalo de dois números passados como parâmetros
 
+:heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/blob/master/Lista%20Aula06%20-%20Listas%20e%20Tuplas/08.py) by Marcelo Amaro
+
+
 ---
 
 9 - Escreva uma função que recebe uma lista de inteiros e que retorne a mesma lista , mas que no lugar de cada inteiro par deve estar escrito a palavra ‘Par’.
+
+:heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/blob/master/Lista%20Aula06%20-%20Listas%20e%20Tuplas/09.py) by Marcelo Amaro
+
+:heavy_check_mark: [Solução - 1](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula06/L6_Q9.py) by Evaldo
+
+
 
 ---
 
