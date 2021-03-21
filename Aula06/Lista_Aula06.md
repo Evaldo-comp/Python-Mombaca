@@ -48,6 +48,9 @@
  
  - f - Gerar uma lista com o quadrado de cada item da lista original
  - g - Gerar uma lista com apenas itens pares da lista original
+
+:heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/blob/master/Lista%20Aula06%20-%20Listas%20e%20Tuplas/05.py) by Marcelo Amaro
+
 	
 ---
 
