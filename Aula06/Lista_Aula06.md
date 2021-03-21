@@ -2,15 +2,33 @@
 
 1 - Faça uma função que receba duas listas e que gere uma terceira com os elementos das duas primeiras.
 
- :heavy_check_mark: [Solução](https://github.com/Eudasio-Rodrigues/Linguagem-de-programacao/blob/main/lista%20aula%2006/questao%2001.py) by Eudásio :
+ :heavy_check_mark: [Solução - 1](https://github.com/Eudasio-Rodrigues/Linguagem-de-programacao/blob/main/lista%20aula%2006/questao%2001.py) by Eudásio
+ 
+ :heavy_check_mark: [Solução - 2](https://github.com/edinaraalencar/Python/blob/master/Lista4/1.py) by Edinara 
+ 
+ :heavy_check_mark: [Solução - 3](https://github.com/Charllys-Brauwol/Aulas_LP1/blob/master/Lista%20Aula%2006/a06q01.py) by Charllys 
+
  
 ---
 
 2 - Faça o mesmo que que se pede na questão anterior, mas a terceira lista não pode ter itens repetidos.
 
+ :heavy_check_mark: [Solução - 1](https://github.com/Charllys-Brauwol/Aulas_LP1/blob/master/Lista%20Aula%2006/a06q02.py) by Charllys
+ 
+ :heavy_check_mark: [Solução - 2](https://github.com/edinaraalencar/Python/blob/master/Lista4/2.py) by Edinara
+ 
+ :heavy_check_mark: [Solução - 3](https://github.com/Eudasio-Rodrigues/Linguagem-de-programacao/blob/main/lista%20aula%2006/questao%2002.py) by Eudasio
+
+
+
 ---
 
 3 - Escreva uma função que receba uma lista com itens repetidos e retorne a mesma lista com itens únicos
+
+ :heavy_check_mark: [Solução - 1](https://github.com/edinaraalencar/Python/blob/master/Lista4/3.py) by Edinara
+ 
+ :heavy_check_mark: [Solução - 2](https://github.com/Eudasio-Rodrigues/Linguagem-de-programacao/blob/main/lista%20aula%2006/questao%2003.py) by Eudasio
+
 
 ---
 
