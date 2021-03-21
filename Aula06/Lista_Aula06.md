@@ -56,6 +56,12 @@
 
 6- Encapsule o código da questão anterior em uma função, que recebe a lista criada e a letra de uma operação. A função deve retornar o resultado da operação representada por esta letra de acordo com o enunciado da questão anterior.
 
+:heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/blob/master/Lista%20Aula06%20-%20Listas%20e%20Tuplas/06.py) by Marcelo Amaro
+
+:heavy_check_mark: [Solução - 2](https://github.com/Eudasio-Rodrigues/Linguagem-de-programacao/blob/main/lista%20aula%2006/questao%2006.py) by Eudasio
+
+
+
 ---
 
 7 - Escreva uma função que receba uma lista de vários inteiros e retorne um único inteiro composto por todos os itens da lista informada.
