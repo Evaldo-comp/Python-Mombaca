@@ -2,6 +2,8 @@
 
 1 - Faça uma função que receba duas listas e que gere uma terceira com os elementos das duas primeiras.
 
+ :heavy_check_mark: [Solução](https://github.com/Eudasio-Rodrigues/Linguagem-de-programacao/blob/main/lista%20aula%2006/questao%2001.py) by Eudásio :
+ 
 ---
 
 2 - Faça o mesmo que que se pede na questão anterior, mas a terceira lista não pode ter itens repetidos.
