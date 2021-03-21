@@ -85,7 +85,7 @@
 
 :heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/blob/master/Lista%20Aula06%20-%20Listas%20e%20Tuplas/09.py) by Marcelo Amaro
 
-:heavy_check_mark: [Solução - 1](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula06/L6_Q9.py) by Evaldo
+:heavy_check_mark: [Solução - 2](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula06/L6_Q9.py) by Evaldo
 
 
 
