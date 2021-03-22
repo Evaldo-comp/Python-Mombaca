@@ -9,6 +9,9 @@
 - Gere um arquivo somente com números primos 
 - Gere 3 arquivos, sendo (divisores de 2, 3 e 5)
 
+ :heavy_check_mark: [Solução - 1](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula08/L8_Q1.py) by Evaldo
+
+
 ---
 
 2 - Para esse exercício utilize o arquivo [nomes.txt](https://github.com/Evaldo-comp/Python-Mombaca/tree/main/Aula08).
