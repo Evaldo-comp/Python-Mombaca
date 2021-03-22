@@ -27,7 +27,10 @@ Para ficar mais interessante, receba o login e senha do usuário através do inp
 
 4 - Utilizando dic conprehension e list comprehension construa uma função que gere o seguinte dicionário:
   O dicionario deve ter como chave as letras de um nome inserido como argumento e como valor uma lista de pares dentro de um range, passado
-  também como argumento
+  também como argumento.
+  
+   :heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/blob/master/Lista%20Aula07%20-%20Dicion%C3%A1rios%20e%20Sets/04.py) by Marcelo Amaro
+
 
 
 ---
@@ -35,6 +38,9 @@ Para ficar mais interessante, receba o login e senha do usuário através do inp
 5- Utilizando o dicionário criado na questão anterior faça:
    Uma função que retorne apenas os valores pares do dicionario da questão anterior
    Uma função que retorne apenasas chaves vogais do dicionário da questão anterior
+   
+   :heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/issues/2) by Marcelo Amaro e Evaldo
+
    
 ---
 
