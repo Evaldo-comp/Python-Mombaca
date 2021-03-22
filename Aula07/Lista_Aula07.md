@@ -57,6 +57,8 @@ Para ficar mais interessante, receba o login e senha do usuário através do inp
     
     *A operação que será retornada também será escolhida pelo usuário
 
+   :heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/blob/master/Lista%20Aula07%20-%20Dicion%C3%A1rios%20e%20Sets/07.py) by Marcelo Amaro
+
 ---
 
 :house: [Home](https://github.com/Evaldo-comp/Python-Mombaca)
