@@ -40,6 +40,9 @@
 
 4 - Percorra as listas anteriores e adapte alguma questão para que ao invés de imprimir a solução no terminal ela guarde esse dado em um arquivo
 
+ :heavy_check_mark: [Solução - 1](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula08/L8_Q4.py) by Evaldo
+
+
 
 
 
