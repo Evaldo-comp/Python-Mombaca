@@ -46,6 +46,9 @@ Para ficar mais interessante, receba o login e senha do usuário através do inp
 
 6- Escreva uma função que receba como argumento uma lista e uma tupla e retorne um set composto pelas duas coleções.
 
+   :heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/blob/master/Lista%20Aula07%20-%20Dicion%C3%A1rios%20e%20Sets/06.py) by Marcelo Amaro
+
+
 ---
 
 7 - Faça uma função que retorne uma das três operações básicas entre sets:
