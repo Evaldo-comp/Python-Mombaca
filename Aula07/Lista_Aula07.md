@@ -3,6 +3,9 @@
 1 -Escreva três funções que gerem automaticamente dicionários com dic comprehensions. Em seguida utilize essas funções como argumentos de outra função 
 que irá recebê-las e retornar um único dicionário .
 
+ :heavy_check_mark: [Solução - 1](https://github.com/Eudasio-Rodrigues/Linguagem-de-programacao/issues/1) by Eudásio
+
+
 ---
 
 2 - Escreva uma função que faça a verificação de existência de uma chave dentro de um dicionário. Caso a chave exista a função deve retornar o valor
