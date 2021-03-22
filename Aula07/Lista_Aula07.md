@@ -21,6 +21,8 @@ A função deve receber além do dicionário, dois possiveis valores para as dua
 que irá retornar "Acesso concedido" se o valor de login e senha do dicionário forem iguais aos que foram passados no chamado da função.
 Para ficar mais interessante, receba o login e senha do usuário através do input.
 
+ :heavy_check_mark: [Solução - 1](https://github.com/Eudasio-Rodrigues/Linguagem-de-programacao/blob/main/lista%20aula%2007/questao%2003.py) by Eudásio
+
 ---
 
 4 - Utilizando dic conprehension e list comprehension construa uma função que gere o seguinte dicionário:
