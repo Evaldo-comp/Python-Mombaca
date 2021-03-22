@@ -21,6 +21,9 @@
 - Crie um arquivo apenas com palíndromos.
 - Faça a busca por determinado nome dentro do arquivo e retorne True caso ele exista.
 
+ :heavy_check_mark: [Solução - 1](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula08/L8_Q2.py) by Evaldo
+
+
 ---
 
 3 - Gere um arquivo HTML Utilizando Python com as seguintes características
@@ -29,6 +32,9 @@
 - Utilize um for para escrever uma lista de sua preferência
 - Mude a cor do background da página 
 - Insira uma imagem
+
+ :heavy_check_mark: [Solução - 1](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula08/L8_Q3.py) by Evaldo
+
 
 ---
 
