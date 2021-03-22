@@ -11,6 +11,9 @@ que irá recebê-las e retornar um único dicionário .
 2 - Escreva uma função que faça a verificação de existência de uma chave dentro de um dicionário. Caso a chave exista a função deve retornar o valor
 da chave, caso ela não exista, a função deve adicioná-la e retornar o dicionário.
 
+ :heavy_check_mark: [Solução - 1](https://github.com/marceloamaro/Python-Mombaca/blob/master/Lista%20Aula07%20-%20Dicion%C3%A1rios%20e%20Sets/02.py) by Marcelo Amaro
+
+
 ---
 
 3 - Escreva uma função que receba um dicionário composto por 2 chaves(login e senha), essas chaves devem possuir seus respectivos valores. 
