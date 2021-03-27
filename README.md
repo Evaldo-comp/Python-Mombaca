@@ -55,5 +55,6 @@ Repositório destinado a organizar a disciplina de Linguagem de Programação I 
 ## :snake: Aula 10 
 
 * [Conteúdo Teórico ]() 
-* [Lista de Exercícios]()
+* [Lista de Exercícios](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula10/Lista_Aula10.md)
+* [Slide](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula10/POO.pdf)
 
