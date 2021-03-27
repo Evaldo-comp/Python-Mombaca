@@ -12,3 +12,5 @@
 ---
 4 - Implemente as classes dos diagramas abaixo.
 
+<img src = "https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula10/Diagrama%20em%20branco%20-%20P%C3%A1gina%206.png" width = "400px" height = "400px">
+
