@@ -122,7 +122,7 @@ class RH(Funcionario):
  ela está herdando, e caso ela possua um atributo próprio, como é o caso da classe RH com seu atributo relação, ele deve ser declarado
  separadamente.
  
- Agora vamos incluir métodos próprios, ou seja, as subclasses além de herdar o método `passar_cartao()` da superclasse, também terão métodos 
+ Agora vamos incluir métodos próprios, ou seja, as subclasses além de herdar o método `bater_cartao()` da superclasse, também terão métodos 
  exclusivos.
  
  ```python
@@ -173,5 +173,8 @@ distribuir poderes para classes que não precisão deles ou não deveriam ter, e
 classe `RH` herda o método contratar, que não é uma função dela, ou seja, temos uma falha de implementação, isso pode ser resolvido mudando o perfil
 de acesso do método, mas isso é assunto para próxima aula.
 
+---
+:house:[Home](https://github.com/Evaldo-comp/Python-Mombaca)
+---
 
 
