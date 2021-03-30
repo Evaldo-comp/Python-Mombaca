@@ -26,14 +26,20 @@ No exemplo apresentado, a classe Pessoa é a mais generalista, a cada nível que
 ## Herança Simples:
 
 Essa é basicamente o caso que tratamos até aqui, quando subclasses herdam atributos e métodos de uma única classe.
-
-imagem
-
+---
+<h1 align= "center">
+<img src = "https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula11/img-2105f66f.jpg" width = "300px" height = "300px" align = "center">
+</h1>
 ---
 
 ## Herança Múltipla:
 
- Acontece quando uma classe herda atributos e/ou metod de mais de uma classe, essa herança por sua vez pode ser caracterizada como direta ou indireta
+ Acontece quando uma classe herda atributos e/ou metod de mais de uma classe, essa herança por sua vez pode ser caracterizada como direta ou indireta:
+ ---
+<h1 align= "center">
+<img src = "https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula11/heran%C3%A7a%20Multipla.PNG" width = "300px" height = "300px" align = "center">
+</h1>
+---
  
  ---
  
