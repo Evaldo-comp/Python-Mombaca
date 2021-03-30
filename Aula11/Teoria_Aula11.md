@@ -120,7 +120,7 @@ class RH(Funcionario):
         super().__init__(nome, mat)
         
         
- class Finaceiro(Funcionario):
+ class Financeiro(Funcionario):
     def __init__(self, nome, mat):
         super().__init__(nome, mat)
 ```
@@ -165,7 +165,7 @@ class RH(Funcionario):
         else:
             print("Espere")
             
- class Finaceiro(Funcionario):
+ class Financeiro(Funcionario):
     def __init__(self, nome, mat):
         super().__init__(nome, mat)
 
