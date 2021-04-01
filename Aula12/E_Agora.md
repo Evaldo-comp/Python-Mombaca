@@ -78,5 +78,11 @@ Python também pode ser usado para a criação de jogos e gráficos 3D, seguem a
 
 [Arcade](https://arcade.academy/): biblioteca python focada em jogos 2D
 
+---
+
+Python é muito versátil e oferece vários caminhos diferentes em várias áreas diferentes, explore e descubra o que a linguagem tem para te oferecer.
+
+
+
 
 
