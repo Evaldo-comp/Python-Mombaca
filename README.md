@@ -64,6 +64,12 @@ Repositório destinado a organizar a disciplina de Linguagem de Programação I 
 * [Lista de Exercícios](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula11/Lista_Aula11.md) 
 
 
+## :snake: Aula 12
+
+* [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula11/Teoria_Aula11.md) 
+* [Lista de Exercícios](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula11/Lista_Aula11.md) 
+
+
 
 
 
