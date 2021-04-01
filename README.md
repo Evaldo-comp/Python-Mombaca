@@ -67,7 +67,7 @@ Repositório destinado a organizar a disciplina de Linguagem de Programação I 
 ## :snake: Aula 12
 
 * [Conteúdo Teórico ](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula12/Teoria_Aula012.md) 
-* [E Agora??!!](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula11/Lista_Aula11.md) 
+* [E Agora??!!](https://github.com/Evaldo-comp/Python-Mombaca/blob/main/Aula12/E_Agora.md) 
 
 
 
