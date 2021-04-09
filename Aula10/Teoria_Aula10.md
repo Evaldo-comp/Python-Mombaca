@@ -1,4 +1,4 @@
-# Aula 10 - Orinetação a Objetos
+# Aula 10 - Orientação a Objetos
 
 ## Conceitos Iniciais
 
