@@ -121,7 +121,7 @@ for i in range(2, 10, 2):  # ao adicionar três argumentos, o terceiro é o inte
 
 ---
 
-:house:[Home](https://github.com/Evaldo-comp/Python-Mombaca)
+:house:[Home](https://github.com/Evaldo-comp/Python-EEEP-JJLG/blob/main/README.md)
 
 ---
 
