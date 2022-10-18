@@ -2,7 +2,7 @@
 
 
 
-#  Decisões e Repetições:
+#  Repetições:
 
 
 - Repetições
